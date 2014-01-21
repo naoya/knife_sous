@@ -23,6 +23,6 @@ manage knife solo nodes. Run knife solo commands on one or multiple nodes.}
   s.add_development_dependency "rspec", "~> 2.14.1"
   s.add_development_dependency "rake", "~> 10.1.0"
   s.add_development_dependency "bundler", "~> 1.3.5"
-  s.add_dependency "knife-solo", "~> 0.3.0"
+  s.add_dependency "knife-solo", "~> 0.4.0"
 end
 
